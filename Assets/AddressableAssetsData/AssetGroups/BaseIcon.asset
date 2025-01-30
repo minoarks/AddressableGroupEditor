@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: BaseIcon
+  m_EditorClassIdentifier: 
+  m_GroupName: BaseIcon
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f18b49b20de88bc4f94d591221865084
+  m_SerializeEntries:
+  - m_GUID: d5dceacb4ad9c71439838f9d84ddf1ae
+    m_Address: Cactus A
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Base
+    - Base_test
+  - m_GUID: f49c007801b3fe846803154bfa86dc81
+    m_Address: Cactus B
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Base
+    - Base_test
+  - m_GUID: 509cb56e68eb2404b902437d87eaab5a
+    m_Address: Cactus C
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Base
+    - Base_test
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9a032d5b09c6058489a1fa664ba3a8c6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 519ebcfa7bec6f04085e80ea35aa2c8f, type: 2}
+    - {fileID: 11400000, guid: 63242b1c87b6bd041a61a559cd8ce283, type: 2}
